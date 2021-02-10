@@ -1,0 +1,97 @@
+#about{
+    padding-top: 2%;
+  
+}
+#about .row-pro{
+    box-shadow: 0px 5px 10px 5px #efefef;
+    background: #ffffff;
+    border-radius: 20px;
+    margin: 0 !important;
+    border-left:5px solid #2196f3;
+    border-right:5px solid #2196f3;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+#about .p-am{
+    text-align: center;
+    padding-bottom:10px;
+    font-size: 16px;
+   
+}
+#about .profile{
+    text-align: center;
+    margin-top: 1%;
+   
+}
+#about .pro-icons{
+   
+    
+}
+#about .pro-icons i{
+   background: #fff;
+    border-radius: 50%;
+    box-shadow: 0px 5px 10px 5px #efefef;
+    color: #000;
+    font-size: 25px; 
+    padding: 10px;
+    
+}
+#about .pro-icons i:hover{
+    background: #2196f3;
+    color:#fff;
+    
+}
+.profile img{
+  
+  vertical-align: middle;
+  width:50%;
+  border-radius: 50%;
+    
+ 
+  
+}
+#about .h4-pro{
+    text-align: center;
+    color:#2196f3;
+    font-weight: 400;
+}
+#about .h4-pro:after{
+    content: '';
+    background: #999da7;
+    height:4px;
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    transform: translateY(6px);
+}
+
+#about  .info{
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    text-align:justify;
+    background: #ffffff;
+    /*box-shadow: 0px 5px 10px 5px #efefef;*/
+    
+    
+}
+#about  .info .fa{
+    color:#2196f3;
+    font-size:20px;
+}
+#about  .info #Content0, #Content1{
+    font-size: 15px;
+}
+
+/*@media (min-width: 760px){
+   #about  .info{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+   /* width:100%;
+    height: 400px;
+    overflow-x: auto;*/
+}*/

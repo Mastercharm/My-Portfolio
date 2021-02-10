@@ -1,0 +1,17 @@
+#passion{
+    padding-top: 2%;
+}
+#passion .card1{
+    width: 100%;
+    margin-bottom: 4%;
+     box-shadow: 0px 5px 10px 5px #efefef;
+    border-radius: 15px;
+}
+#passion .card1 .card-body{
+    width: 100%;
+    height: auto;
+    overflow-X: auto;
+}
+.poetry{
+    font-size:16px;font-weight:400;line-height:2;text-align:left;
+}

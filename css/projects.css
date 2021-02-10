@@ -1,0 +1,30 @@
+#projects{
+   padding-top: 2%; 
+   
+}
+#projects  .proj{
+    box-shadow: 0px 5px 10px 5px #efefef;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10x;
+    padding-top: 10px;
+    margin-bottom: 2%;
+    width:100%;
+    overflow-x: auto;
+    border-radius: 15px;
+    background: #ffffff;
+}
+#projects  .proj .p-dec{
+  font-size: 14px;
+  font-weight:bold;
+  color:#2196f3;
+}
+.proj .proj-title{
+    font-size: 14px;
+}
+.proj .proj-desc{
+   font-size:14px; 
+}
+.proj .proj-role{
+   font-size:14px; 
+}
